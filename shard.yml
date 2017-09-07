@@ -1,0 +1,13 @@
+name: myip
+version: 0.1.0
+
+authors:
+  - Colin Carter <colin_carter@fmail.co.uk>
+
+targets:
+  myip:
+    main: myip.cr
+
+crystal: 0.23.1
+
+license: MIT
